@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Welcome_test::test_index":3,"Pages_test::test_tambah":3},"times":{"Welcome_test::test_index":0.009,"Welcome_test::test_method_404":0.008,"Welcome_test::test_APPPATH":0.002,"PagesTest::testTambah":0.025,"Pages_test::test_tambah":0.003,"Pages_test::test_index":0.016,"Pages_test::test_about":0.007}}
